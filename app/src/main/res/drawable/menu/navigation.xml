@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_catagory"
+        android:icon="@drawable/price"
+        android:title="PriceS" />
+    <item
+        android:id="@+id/navigation_request"
+        android:icon="@drawable/star"
+        android:title="Favourites" />
+    <item
+        android:id="@+id/navigation_portfolio"
+        android:icon="@drawable/invest"
+        android:title="Portfolio" />
+    <item
+        android:id="@+id/navigation_notification"
+        android:icon="@drawable/ic_baseline_wifi_24"
+        android:title="News" />
+
+
+    <item
+        android:id="@+id/navigation_invest"
+        android:icon="@drawable/potfolio"
+        android:title="Invest" />
+
+
+</menu>

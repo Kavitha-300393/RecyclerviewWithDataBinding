@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Retrofitwitharray</string>
+    <string name="name">name</string>
+    <string name="version">version</string>
+    <string name="api_level">api level</string>
+    <string name="prices" />
+</resources>
